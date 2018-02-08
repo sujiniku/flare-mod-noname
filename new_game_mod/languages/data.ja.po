@@ -32,11 +32,11 @@ msgstr "ロングソード"
 
 #: ../items/items.txt:49
 msgid "Greatsword"
-msgstr ""
+msgstr "グレートソード"
 
 #: ../items/items.txt:65
 msgid "Slingshot"
-msgstr "グレートソード"
+msgstr "スリングショット"
 
 #: ../items/items.txt:89
 msgid "Shortbow"
@@ -56,7 +56,7 @@ msgstr "木のバックラー"
 
 #: ../items/items.txt:174
 msgid "Use: Raise your shield to raise your avoidance by 10% and absorb by 1-5. Chance to reflect missiles increased by 50%."
-msgstr ""
+msgstr "使用:シールドをかまえることにより、回避率を 10% 上昇させ、吸収を 1-5 上昇させます。 投擲物の反射の確率が 50% 上昇します。"
 
 #: ../items/items.txt:179
 msgid "Iron Buckler"
@@ -64,23 +64,23 @@ msgstr "鉄のバックラー"
 
 #: ../items/items.txt:190
 msgid "Use: Raise your shield to raise your avoidance by 20% and absorb by 1-5. Chance to reflect missiles increased by 60%."
-msgstr ""
+msgstr "使用:シールドをかまえることにより、回避率を 20% 上昇させ、吸収を 1-5 上昇させます。 投擲物の反射の確率が 60% 上昇します。"
 
 #: ../items/items.txt:195
 msgid "Crest Shield"
-msgstr ""
+msgstr "クレストシールド"
 
 #: ../items/items.txt:206
 msgid "Use: Raise your shield to raise your avoidance by 20% and absorb by 2-5. Chance to reflect missiles increased by 60%."
-msgstr ""
+msgstr "使用:シールドをかまえることにより、回避率を 20% 上昇させ、吸収を 2-5 上昇させます。 投擲物の反射の確率が 60% 上昇します。"
 
 #: ../items/items.txt:211
 msgid "Tower Shield"
-msgstr ""
+msgstr "タワーシールド"
 
 #: ../items/items.txt:222
 msgid "Use: Raise your shield to raise your avoidance by 25% and absorb by 2-5. Chance to reflect missiles increased by 65%."
-msgstr ""
+msgstr "使用:シールドをかまえることにより、回避率を 25% 上昇させ、吸収を 2-5 上昇させます。 投擲物の反射の確率が 60% 上昇します。"
 
 #: ../items/items.txt:229
 msgid "Cloth Shirt"
@@ -92,7 +92,7 @@ msgstr "布のグラブ"
 
 #: ../items/items.txt:253
 msgid "Cloth Trousers"
-msgstr ""
+msgstr "布のズボン"
 
 #: ../items/items.txt:265
 msgid "Cloth Sandals"
@@ -100,11 +100,11 @@ msgstr "布のサンダル"
 
 #: ../items/items.txt:280
 msgid "Leather Hood"
-msgstr ""
+msgstr "革のフード"
 
 #: ../items/items.txt:293
 msgid "Leather Chest"
-msgstr "革のフード"
+msgstr "革の胸当て"
 
 #: ../items/items.txt:306
 msgid "Leather Gloves"
@@ -188,19 +188,19 @@ msgstr ""
 
 #: ../items/items.txt:525
 msgid "Bear Figurine +1"
-msgstr ""
+msgstr "クマの置物 +1"
 
 #: ../items/items.txt:537
 msgid "Owl Figurine +1"
-msgstr ""
+msgstr "フクロウの置物 +1"
 
 #: ../items/items.txt:549
 msgid "Cat Figurine +1"
-msgstr ""
+msgstr "ネコの置物 +1"
 
 #: ../items/items.txt:561
 msgid "Turtle Figurine +1"
-msgstr ""
+msgstr "カメの置物 +1"
 
 #: ../items/items.txt:573
 msgid "Gauntlets of Ogre Power"
@@ -224,19 +224,19 @@ msgstr ""
 
 #: ../items/items.txt:636
 msgid "Ring of Strength"
-msgstr ""
+msgstr "強さのリング"
 
 #: ../items/items.txt:648
 msgid "Ring of Dexterity"
-msgstr ""
+msgstr "器用さのリング"
 
 #: ../items/items.txt:660
 msgid "Ring of Magic"
-msgstr ""
+msgstr "魔法のリング"
 
 #: ../items/items.txt:672
 msgid "Dark Talisman"
-msgstr ""
+msgstr "ヤミのタリスマン"
 
 #: ../items/items.txt:673
 msgid "Better not know how to use this"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../powers/powers.txt:113
 msgid "120% Damage"
-msgstr ""
+msgstr "120% ダメージ"
 
 #: ../powers/powers.txt:119
 msgid "Shoot 3"
@@ -1216,11 +1216,11 @@ msgstr ""
 
 #: ../powers/powers.txt:2706
 msgid "Caltrops"
-msgstr ""
+msgstr "まきびし"
 
 #: ../powers/powers.txt:2709
 msgid "This trap deals 75% ranged weapon damage and slows the target."
-msgstr ""
+msgstr "敵に 75% の遠距離ダメージを与え、動きをおそくする。"
 
 #: ../powers/powers.txt:2753
 msgid "Lay a bear trap which immobilizes the target"
@@ -1236,19 +1236,19 @@ msgstr ""
 
 #: ../powers/powers.txt:2804
 msgid "Raise your shield to raise your avoidance by 10% and absorb by 1-5. Chance to reflect missiles increased by 50%."
-msgstr ""
+msgstr "シールドをかまえることにより、回避率を 10% 上昇させ、吸収を 1-5 上昇させます。 投擲物の反射の確率が 50% 上昇します。"
 
 #: ../powers/powers.txt:2818
 msgid "Raise your shield to raise your avoidance by 20% and absorb by 1-5. Chance to reflect missiles increased by 60%."
-msgstr ""
+msgstr "シールドをかまえることにより、回避率を 20% 上昇させ、吸収を 1-5 上昇させます。 投擲物の反射の確率が 60% 上昇します。"
 
 #: ../powers/powers.txt:2832
 msgid "Raise your shield to raise your avoidance by 20% and absorb by 2-5. Chance to reflect missiles increased by 60%."
-msgstr ""
+msgstr "シールドをかまえることにより、回避率を 20% 上昇させ、吸収を 2-5 上昇させます。 投擲物の反射の確率が 60% 上昇します。"
 
 #: ../powers/powers.txt:2846
 msgid "Raise your shield to raise your avoidance by 25% and absorb by 2-5. Chance to reflect missiles increased by 65%."
-msgstr ""
+msgstr "シールドをかまえることにより、回避率を 25% 上昇させ、吸収を 2-5 上昇させます。 投擲物の反射の確率が 65% 上昇します。"
 
 #: ../powers/powers.txt:2943
 msgid "Channel"
@@ -1272,11 +1272,11 @@ msgstr ""
 
 #: ../powers/powers.txt:3088
 msgid "Throw Axe"
-msgstr ""
+msgstr "オノ投げ"
 
 #: ../powers/powers.txt:3091
 msgid "Throw an axe to deal 150% of melee weapon damage"
-msgstr ""
+msgstr "オノを投げて150%の近接攻撃ダメージ"
 
 #: ../powers/powers.txt:3105
 msgid "Fire Storm"
@@ -1336,23 +1336,23 @@ msgstr ""
 
 #: ../powers/powers.txt:3708
 msgid "Multishot"
-msgstr ""
+msgstr "マルチショット"
 
 #: ../engine/elements.txt:3
 msgid "Fire Resistance"
-msgstr ""
+msgstr "火の抵抗"
 
 #: ../engine/elements.txt:7
 msgid "Ice Resistance"
-msgstr ""
+msgstr "こおりの抵抗"
 
 #: ../engine/elements.txt:11
 msgid "Earth Resistance"
-msgstr ""
+msgstr "土の抵抗"
 
 #: ../engine/elements.txt:15
 msgid "Lightning Resistance"
-msgstr ""
+msgstr "光の抵抗"
 
 #: ../engine/classes.txt:6
 msgid "Adventurer"
@@ -1364,11 +1364,11 @@ msgstr ""
 
 #: ../enemies/antlion.txt:3
 msgid "Antlion"
-msgstr ""
+msgstr "アントリオン"
 
 #: ../enemies/antlion_blinker.txt:3
 msgid "Antlion Blinker"
-msgstr ""
+msgstr "アントリオン ブリンカー"
 
 #: ../enemies/antlion_burster.txt:3
 msgid "Antlion Burster"
@@ -1380,7 +1380,7 @@ msgstr ""
 
 #: ../enemies/antlion_hatchling.txt:3
 msgid "Antlion Hatchling"
-msgstr ""
+msgstr "アントリオン ひな"
 
 #: ../enemies/antlion_slasher.txt:3
 msgid "Antlion Slasher"
@@ -1392,15 +1392,15 @@ msgstr ""
 
 #: ../enemies/cursed_grave.txt:3
 msgid "Cursed Grave"
-msgstr ""
+msgstr "呪われた墓"
 
 #: ../enemies/goblin.txt:3
 msgid "Goblin"
-msgstr ""
+msgstr "ゴブリン"
 
 #: ../enemies/goblin_charger.txt:3
 msgid "Goblin Charger"
-msgstr ""
+msgstr "ゴブリン チャージャー"
 
 #: ../enemies/goblin_charger_elite.txt:3
 msgid "Goblin Charger Elite"
@@ -1408,15 +1408,15 @@ msgstr ""
 
 #: ../enemies/goblin_shaman.txt:3
 msgid "Goblin Shaman"
-msgstr ""
+msgstr "ゴブリン シャーマン"
 
 #: ../enemies/goblin_spearman.txt:3
 msgid "Goblin Spearman"
-msgstr ""
+msgstr "ゴブリン スピアマン"
 
 #: ../enemies/goblin_spearman_elite.txt:3
 msgid "Goblin Spearman Elite"
-msgstr ""
+msgstr "ゴブリン スピアマン エリート"
 
 #: ../enemies/grisbon.txt:3
 msgid "Grisbon"
@@ -1432,15 +1432,15 @@ msgstr ""
 
 #: ../enemies/minotaur.txt:3
 msgid "Minotaur"
-msgstr ""
+msgstr "ミノタウロス"
 
 #: ../enemies/necromancer_apprentice.txt:3
 msgid "Apprentice Necromancer"
-msgstr ""
+msgstr "見習いネクロマンサー"
 
 #: ../enemies/ng_ally_ghost1.txt:1
 msgid "Ghost"
-msgstr ""
+msgstr "ゴースト"
 
 #: ../enemies/ng_ally_ghost3.txt:1
 msgid "Ghost Captain"
@@ -1448,11 +1448,11 @@ msgstr ""
 
 #: ../enemies/ng_ally_ghost_spawn_horseman.txt:1
 msgid "Headless Horseman"
-msgstr ""
+msgstr "くびなし うま人間"
 
 #: ../enemies/ng_ally_ghost_spawn_skeleton1.txt:1
 msgid "Skeleton"
-msgstr ""
+msgstr "スケルトン"
 
 #: ../enemies/ng_ally_ghost_spawn_skeleton2.txt:1
 msgid "Skeleton Fighter"
@@ -1460,15 +1460,15 @@ msgstr ""
 
 #: ../enemies/ng_ally_ghost_spawn_skeleton3.txt:1
 msgid "Skeleton Knight"
-msgstr ""
+msgstr "がいこつ 騎士"
 
 #: ../enemies/ng_ally_ghost_spawn_skeleton_archer1.txt:1
 msgid "Skeleton Archer"
-msgstr ""
+msgstr "がいこつ アーチャー"
 
 #: ../enemies/ng_ally_ghost_spawn_zombie1.txt:1
 msgid "Zombie"
-msgstr ""
+msgstr "ゾンビ"
 
 #: ../enemies/ng_ally_ghost_spawn_zombie2.txt:1
 msgid "Fresh Zombie"
@@ -1492,7 +1492,7 @@ msgstr ""
 
 #: ../enemies/ng_boss_ghost_commander.txt:1
 msgid "Ghostly Commander"
-msgstr ""
+msgstr "ゴースト 指揮官"
 
 #: ../enemies/ng_boss_horse.txt:1
 msgid "Horse"
@@ -1548,35 +1548,35 @@ msgstr ""
 
 #: ../enemies/ng_enemy_hobgoblin.txt:1
 msgid "Hobgoblin"
-msgstr ""
+msgstr "ホブゴブリン"
 
 #: ../enemies/ng_enemy_hobgoblin_archer.txt:1
 msgid "Hobgoblin Spearman"
-msgstr ""
+msgstr "ホブゴブリン スピアマン"
 
 #: ../enemies/ng_enemy_hobgoblin_charger.txt:1
 msgid "Hobgoblin Elite"
-msgstr ""
+msgstr "ホブゴブリン エリート"
 
 #: ../enemies/ng_enemy_hobgoblin_charger_archer.txt:1
 msgid "Hobgoblin Elite Spearman"
-msgstr ""
+msgstr "ホブゴブリン エリート スピアマン"
 
 #: ../enemies/ng_enemy_hobgoblin_charger_mage.txt:1
 msgid "Hobgoblin Elite Mage"
-msgstr ""
+msgstr "ホブゴブリン エリート メイジ"
 
 #: ../enemies/ng_enemy_hobgoblin_mage.txt:1
 msgid "Hobgoblin Mage"
-msgstr ""
+msgstr "ホブゴブリン メイジ"
 
 #: ../enemies/ng_enemy_poltergeist.txt:1
 msgid "Poltergeist"
-msgstr ""
+msgstr "ポルターガイスト"
 
 #: ../enemies/ng_enemy_shade.txt:1
 msgid "Shade"
-msgstr ""
+msgstr "シェイド"
 
 #: ../enemies/ng_enemy_skeleton_apprentice.txt:1
 msgid "Skeleton Apprentice"
@@ -1584,7 +1584,7 @@ msgstr ""
 
 #: ../enemies/ng_enemy_skeleton_mage.txt:1
 msgid "Skeleton Mage"
-msgstr ""
+msgstr "がいこつ メイジ"
 
 #: ../enemies/ng_enemy_skeleton_mage_elite.txt:1
 msgid "Skeleton Mage Elite"
@@ -1592,7 +1592,7 @@ msgstr ""
 
 #: ../enemies/ng_enemy_skeleton_old.txt:1
 msgid "Old Skeleton"
-msgstr ""
+msgstr "古びたスケルトン"
 
 #: ../enemies/ng_enemy_skelton_knight_elite.txt:1
 msgid "Skeleton Knight Elite"
@@ -1604,11 +1604,11 @@ msgstr ""
 
 #: ../enemies/ng_enemy_soldier_barbarian.txt:1
 msgid "Barbarian"
-msgstr ""
+msgstr "バーバリアン"
 
 #: ../enemies/ng_enemy_soldier_berserker.txt:1
 msgid "Berserker"
-msgstr ""
+msgstr "バーサーカー"
 
 #: ../enemies/ng_enemy_soldier_infantry.txt:1
 msgid "Infantry"
@@ -1628,15 +1628,15 @@ msgstr ""
 
 #: ../enemies/ng_enemy_spider.txt:1
 msgid "Spider"
-msgstr ""
+msgstr "くも"
 
 #: ../enemies/ng_enemy_spider_giant.txt:1
 msgid "Giant Spider"
-msgstr ""
+msgstr "ジャイアント スパイダー"
 
 #: ../enemies/ng_enemy_spider_small.txt:1
 msgid "Small Spider"
-msgstr ""
+msgstr "小さなスパイダー"
 
 #: ../enemies/ng_enemy_stone_barricade.txt:1
 msgid "Stone Barricade"
@@ -1644,7 +1644,7 @@ msgstr ""
 
 #: ../enemies/ng_enemy_troll.txt:1
 msgid "Troll"
-msgstr ""
+msgstr "トロール"
 
 #: ../enemies/ng_enemy_warhorse.txt:1
 msgid "Warhorse"
@@ -1660,15 +1660,15 @@ msgstr ""
 
 #: ../enemies/ng_enemy_zombie_rotting.txt:1
 msgid "Rotting Zombie"
-msgstr ""
+msgstr "はいまわるゾンビ"
 
 #: ../enemies/professor_langlier.txt:3
 msgid "Professor Langlier"
-msgstr ""
+msgstr "ラングリア教授"
 
 #: ../enemies/reanimated_skeleton.txt:3
 msgid "Reanimated Skeleton"
-msgstr ""
+msgstr "うごくスケルトン"
 
 #: ../enemies/rilrak.txt:3
 msgid "Rilrak, Goblin Shaman"
@@ -1684,15 +1684,15 @@ msgstr ""
 
 #: ../enemies/skeletal_archer.txt:3
 msgid "Skeletal Archer"
-msgstr ""
+msgstr "がいこつ アーチャー"
 
 #: ../enemies/skeletal_knight.txt:3
 msgid "Skeletal Knight"
-msgstr ""
+msgstr "がいこつ 騎士"
 
 #: ../enemies/skeletal_mage.txt:3
 msgid "Skeletal Mage"
-msgstr ""
+msgstr "がいこつ メイジ"
 
 #: ../enemies/skeletal_occultist.txt:3
 msgid "Skeletal Occultist"
@@ -1716,7 +1716,7 @@ msgstr ""
 
 #: ../enemies/stealth.txt:1
 msgid "Stealth"
-msgstr ""
+msgstr "ステルス"
 
 #: ../enemies/the_warden.txt:3
 msgid "The Warden"
@@ -1808,7 +1808,7 @@ msgstr ""
 
 #: ../maps/dungeon10.txt:204
 msgid "Waypoint discovered"
-msgstr ""
+msgstr "ウェイポイントを発見した"
 
 #: ../maps/dungeon2.txt:9
 msgid "Ancient Dungeon Level 2"
@@ -1856,7 +1856,7 @@ msgstr ""
 
 #: ../maps/goblin_caves.txt:9
 msgid "Goblin Caves"
-msgstr ""
+msgstr "ゴブリンの どうくつ"
 
 #: ../maps/marshlands.txt:9
 msgid "Marshlands"
@@ -1872,7 +1872,7 @@ msgstr ""
 
 #: ../maps/sage_home.txt:209
 msgid "Shared Stash"
-msgstr ""
+msgstr "共有スタッシュ"
 
 #: ../maps/secret_cave.txt:9
 msgid "Hidden Alcove"
@@ -1880,7 +1880,7 @@ msgstr ""
 
 #: ../maps/woods.txt:9
 msgid "Greenwood Forest"
-msgstr ""
+msgstr "Greenwood の森"
 
 #: ../maps/woods2.txt:9
 msgid "Northwood"
@@ -1948,7 +1948,7 @@ msgstr "集落で Ieuan と再会するため、 Fern Valley を終わりまで�
 
 #: ../quests/horse_whisperer.txt:14
 msgid "Speak to the woodsman"
-msgstr ""
+msgstr "木こりと話そう。"
 
 #: ../quests/horse_whisperer.txt:19
 msgid "Head to the woods north of town and use the apples Evan gave you to coax the beast."
